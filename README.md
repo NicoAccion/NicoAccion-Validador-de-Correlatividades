@@ -1,1 +1,0 @@
-# NicoAccion-Validador-de-Correlatividades
